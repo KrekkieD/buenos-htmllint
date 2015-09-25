@@ -14,7 +14,7 @@ module.exports.embeddedConfig = embeddedConfig;
 
 var DEFAULT_CONFIG = {
     reporters: [
-        [$reporter, { path: './reports/htmllint-report.json' }]
+        [$reporter, { path: './reports/buenos-htmllint.json' }]
     ],
     src: [
         './**/*.html',

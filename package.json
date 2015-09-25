@@ -8,6 +8,13 @@
     "buenos-jscs": "buenos-jscs",
     "buenos-jshint": "buenos-jshint"
   },
+  "keywords": [
+    "buenos-lint",
+    "lint",
+    "html",
+    "htmllint",
+    "style"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/krekkied/buenos-htmllint.git"
