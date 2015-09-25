@@ -31,6 +31,7 @@
   },
   "dependencies": {
     "colors": "^1.1.2",
+    "extend": "^3.0.0",
     "globby": "^3.0.1",
     "htmllint": "git+https://github.com/krekkied/htmllint.git#buenos-htmllint",
     "mkdirp": "^0.5.1",
