@@ -1,0 +1,34 @@
+{
+  "name": "buenos-htmllint",
+  "version": "0.1.0-alpha",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "buenos-jscs": "buenos-jscs",
+    "buenos-jshint": "buenos-jshint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krekkied/buenos-htmllint.git"
+  },
+  "author": "Gregory Cowan <g.cowan@amnzero.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krekkied/buenos-htmllint/issues"
+  },
+  "homepage": "https://github.com/krekkied/buenos-htmllint#readme",
+  "devDependencies": {
+    "buenos-jscs": "^0.3.3",
+    "buenos-jshint": "^0.2.4"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "globby": "^3.0.1",
+    "htmllint": "git+https://github.com/krekkied/htmllint.git#buenos-htmllint",
+    "mkdirp": "^0.5.1",
+    "q": "^1.4.1",
+    "sorted-object": "^1.0.0",
+    "up-the-tree": "^0.3.2"
+  }
+}
