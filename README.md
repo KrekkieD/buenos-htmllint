@@ -64,7 +64,8 @@ $ npm run buenos-htmllint
      */
     src: [
         './**/*.html',
-        '!./node_modules/**/*'
+        '!./**/node_modules/**/*',
+        '!./**/bower_components/**/*'
     ],
         
     

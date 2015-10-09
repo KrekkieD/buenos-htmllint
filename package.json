@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "buenos-jscs": "buenos-jscs",
-    "buenos-jshint": "buenos-jshint"
+    "buenos-jshint": "buenos-jshint",
+    "buenos-htmllint": "node index.js"
+  },
+  "bin": {
+    "buenos-htmllint": "bin/buenos-htmllint"
   },
   "keywords": [
     "buenos-lint",

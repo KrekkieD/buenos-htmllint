@@ -18,7 +18,8 @@ var DEFAULT_CONFIG = {
     ],
     src: [
         './**/*.html',
-        '!./node_modules/**/*'
+        '!./**/node_modules/**/*',
+        '!./**/bower_components/**/*'
     ]
 };
 
