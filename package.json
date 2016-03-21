@@ -37,7 +37,7 @@
     "colors": "^1.1.2",
     "extend": "^3.0.0",
     "globby": "^3.0.1",
-    "htmllint": "git+https://github.com/krekkied/htmllint.git#buenos-htmllint",
+    "htmllint": "^0.2.6",
     "mkdirp": "^0.5.1",
     "q": "^1.4.1",
     "sorted-object": "^1.0.0",
